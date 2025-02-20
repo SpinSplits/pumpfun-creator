@@ -8,7 +8,7 @@
 ![Stars](https://img.shields.io/github/stars/spinlists/meme-coin-creator?style=social)
 ![Forks](https://img.shields.io/github/forks/spinlists/meme-coin-creator?style=social)
 
-> 🚀 The official Pump.Fun token creation toolkit. Create viral tokens, manage liquidity pools, and boost visibility - all optimized for Pump.Fun's ecosystem. Get ready to dominate the Solana memecoin space!
+> 🚀 The official Pump.Fun token creation toolkit. Create viral tokens, manage liquidity pools, and boost visibility - all optimized for Pump.Fun's ecosystem. Get ready to dominate the Solana memecoin space!!
 
 <div align="center">
 
