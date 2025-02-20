@@ -1,0 +1,59 @@
+{
+  "name": "meme-coin-creator",
+  "version": "1.0.0",
+  "description": "✈ Ultimate Meme Coin Trading Bot | High-Speed Sniper | Volume Booster | Visibility Enhancer | Best Meme Coin Tool 2025",
+  "main": "src/buy.ts",
+  "scripts": {
+    "start": "ts-node src/buy.ts",
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint . --ext .ts"
+  },
+  "keywords": [
+    "solana",
+    "meme-coin",
+    "token-launcher",
+    "coin-creator",
+    "defi-tool",
+    "promotion-bot",
+    "visibility-bot",
+    "raydium",
+    "openbook",
+    "solana-blockchain",
+    "automated-promotion",
+    "token-boost",
+    "defi",
+    "cryptocurrency",
+    "solana-defi",
+    "meme-token",
+    "volume-booster",
+    "token-promotion"
+  ],
+  "author": "Meme Coin Rug Team",
+  "license": "MIT",
+  "dependencies": {
+    "@project-serum/serum": "^0.13.65",
+    "@raydium-io/raydium-sdk": "^1.3.1-beta.47",
+    "@solana/spl-token": "^0.4.12",
+    "@solana/web3.js": "^1.89.1",
+    "@types/bs58": "^4.0.4",
+    "axios": "^1.6.8",
+    "bigint-buffer": "^1.1.5",
+    "bn.js": "^5.2.1",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.1",
+    "pino": "^8.18.0",
+    "pino-pretty": "^10.3.1",
+    "pino-std-serializers": "^6.2.2",
+    "rxjs": "^7.8.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.5",
+    "@types/node": "^16.18.125",
+    "javascript-obfuscator": "^4.1.1",
+    "prettier": "^3.2.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
