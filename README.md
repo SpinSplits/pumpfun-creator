@@ -39,7 +39,7 @@
 
 <br>
 <h3>🚀 Official Pump.Fun Token Creation & Promotion Tool</h3>
-<h4>[ Join our <a href="https://discord.gg/JXgk42xhaH">Discord</a> for Pro Tips ]</h4>
+<h4>[ Join our <a href="https://discord.gg/JXgk42xhaH">Discord</a> Community for Pro Tips ]</h4>
 <br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
